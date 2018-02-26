@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    tools:context="com.example.huy.facemaker.MainActivity">
+
+    <com.example.huy.facemaker.Face
+
+        android:id="@+id/mainSurfaceView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight ="1"
+        >
+
+    </com.example.huy.facemaker.Face>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/redTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="14dp"
+                android:layout_weight="0"
+                android:textColor="#000000"
+                android:text="Red: " />
+
+            <TextView
+                android:id="@+id/redValue"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="10dp"
+                android:layout_weight="0"
+                android:textColor="#000000"
+                android:text="255" />
+
+            <SeekBar
+                android:id="@+id/redSeekBar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:max="255" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/greenTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0"
+                android:textColor="#000000"
+                android:text="Green: " />
+
+            <TextView
+                android:id="@+id/greenValue"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="10dp"
+                android:layout_weight="0"
+                android:text="255"
+                android:textColor="#000000" />
+
+            <SeekBar
+                android:id="@+id/greenSeekBar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="10"
+                android:max="255" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/blueTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="11dp"
+                android:layout_weight="0"
+                android:textColor="#000000"
+                android:text="Blue: " />
+
+            <TextView
+                android:id="@+id/blueValue"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="10dp"
+                android:textColor="#000000"
+                android:layout_weight="0"
+                android:text="255" />
+
+            <SeekBar
+                android:id="@+id/blueSeekBar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="10"
+                android:max="255" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <RadioGroup
+
+                android:id="@+id/radioGroup"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="0"
+                android:orientation="horizontal">
+
+                <RadioButton
+                    android:id="@+id/eyesRadioButton"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Eyes" />
+
+                <RadioButton
+                    android:id="@+id/skinRadioButton"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Skin" />
+
+                <RadioButton
+                    android:id="@+id/hairRadioButton"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Hair" />
+            </RadioGroup>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/ranFaceButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Random Face" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/hairStyleTextView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Hairstyle:"
+                    android:textColor="#000000"
+                    android:textSize="30sp" />
+
+                <Spinner
+                    android:id="@+id/hairSpinner"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1" />
+            </LinearLayout>
+
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>
