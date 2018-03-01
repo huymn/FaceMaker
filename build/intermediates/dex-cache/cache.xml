@@ -3,138 +3,174 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\Huy\AndroidStudioProjects\FaceMaker\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="C:\Users\nguyenhu21\.android\build-cache\5214f8e881fe6a5ba26a9d1ecac83e9e041c73da\output\jars\libs\internal_impl-25.0.0.jar"
         jumboMode="true"
         optimize="true"
-        revision="27.0.3"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="C:\Users\Huy\AndroidStudioProjects\FaceMaker\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ebdb1aa5db54d851a752d6ecdf38904fad278503\classes.dex" />
+        revision="25.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\nguyenhu21\StudioProjects\FaceMaker\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_6d9b0d061fdd735d5f00c51f2057be58e759de69\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Huy\.android\build-cache\2b9456977a695b175c814ddde5890e7b6bce805a\output\jars\classes.jar"
+        jar="C:\Users\nguyenhu21\.android\build-cache\36a6dd6ff0edc606a4563fa532288048db58d958\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="27.0.3"
-        sha1="9e3177fae918dbe4e58eccf197cfb56bfaf59803">
-        <dex dex="C:\Users\Huy\AndroidStudioProjects\FaceMaker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_90513350d0d541a65b1e37a1ff620da785cfe4aa\classes.dex" />
+        revision="25.0.3"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\nguyenhu21\StudioProjects\FaceMaker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dcc4336a425a9b8cf6181c3d57f8610cfae905a5\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Huy\.android\build-cache\07ac5d5b8a5bbf1a4bb326c35c817a46645986d8\output\jars\classes.jar"
+        jar="C:\Users\nguyenhu21\.android\build-cache\b76b96712ae2d4677b28c4c2bccd844a514a99a0\output\jars\libs\internal_impl-25.0.0.jar"
         jumboMode="true"
         optimize="true"
-        revision="27.0.3"
-        sha1="89172db744f643c670ee7f9620b39ed460bc23fb">
-        <dex dex="C:\Users\Huy\AndroidStudioProjects\FaceMaker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fad4b2edc8b1b8578566269a7a3e8dc1b8ddbdd1\classes.dex" />
+        revision="25.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\nguyenhu21\StudioProjects\FaceMaker\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_21d5409a02876083b366008ea66d91fc92b74f2d\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Huy\.android\build-cache\ad2e94ac67e41fdc8e3b0fed818bf28fa7546752\output\jars\classes.jar"
+        jar="C:\Users\nguyenhu21\.android\build-cache\f77eb875ec914c19f6c0ed00a31199e66aaaf28b\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="27.0.3"
-        sha1="cf7abe2a43ffb1d475e94d0877ef3abb95fff56e">
-        <dex dex="C:\Users\Huy\AndroidStudioProjects\FaceMaker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ff6c9e38c8b8434a0a541f44ed3458f7b31af110\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Huy\.android\build-cache\c4d2eef8071ea2e4dddbffcc3d14afd8269cfd55\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.3"
-        sha1="e616b95568c5f38322799069485eb73f68ffec0a">
-        <dex dex="C:\Users\Huy\AndroidStudioProjects\FaceMaker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cf97748d9bdc461de75b955d0edaec576f558727\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Huy\.android\build-cache\6b1f85ffe7d0244a3b6786b2fbf39ebbab700735\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.3"
-        sha1="7103318ab8a16fe56a325b7554b088f4d49e4700">
-        <dex dex="C:\Users\Huy\AndroidStudioProjects\FaceMaker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1d1a79410f9a6493ed2ca909e1d79db09ad4031e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Huy\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.3"
-        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
-        <dex dex="C:\Users\Huy\AndroidStudioProjects\FaceMaker\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_fd064e1373c79ccfc0d6d39b77556c30b81e4e28\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Huy\.android\build-cache\c8cd18b49ec905ff1089c3d813520356bfd6ffff\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.3"
+        revision="25.0.3"
         sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="C:\Users\Huy\AndroidStudioProjects\FaceMaker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8442e801271354f967628092d27a3c40968da179\classes.dex" />
+        <dex dex="C:\Users\nguyenhu21\StudioProjects\FaceMaker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_da29c287ac62c1be6cc30a2528db0b13ec0e9d28\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Huy\AndroidStudioProjects\FaceMaker\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="C:\Users\nguyenhu21\.android\build-cache\9dba543d0ceeebf9e42ae7368f44f2a16c48419c\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="27.0.3"
-        sha1="a352b341097db78542493cf2665b23571972727f">
-        <dex dex="C:\Users\Huy\AndroidStudioProjects\FaceMaker\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1c29c9e84c60e36c827adb66ba55fb7b7d86a4f1\classes.dex" />
+        revision="25.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\nguyenhu21\StudioProjects\FaceMaker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e1d5b6a3ffac27239121f6eba6bf23f10043d720\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Huy\.android\build-cache\24597ee98f9fdd83f530569e134e8e49e49e0319\output\jars\classes.jar"
+        jar="C:\Users\nguyenhu21\.android\build-cache\8c021ef70365d3eecf48d1d41880523fbd05615f\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="27.0.3"
-        sha1="62e71cc187cfcb1ba382b05c5f39f5d903973656">
-        <dex dex="C:\Users\Huy\AndroidStudioProjects\FaceMaker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_84130f8ee197db0b46604c6d264c906a2504754b\classes.dex" />
+        revision="25.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\nguyenhu21\StudioProjects\FaceMaker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9543de04894e687e870ec7cbc8367581f01dc9ad\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Huy\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.0.0\a7782471b2a0de8fec071b8094a8aaf61c46ab70\support-annotations-27.0.0.jar"
+        jar="C:\Users\nguyenhu21\.android\build-cache\5214f8e881fe6a5ba26a9d1ecac83e9e041c73da\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="27.0.3"
-        sha1="a7782471b2a0de8fec071b8094a8aaf61c46ab70">
-        <dex dex="C:\Users\Huy\AndroidStudioProjects\FaceMaker\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-27.0.0_b0d5d5501d4ec9af9740c5989c1a5abd070f4b53\classes.dex" />
+        revision="25.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\nguyenhu21\StudioProjects\FaceMaker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_80d1ac55a3af6cb05e43618779cb5f227a1f0291\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Huy\.android\build-cache\a6e2aa383767a67253a4375e266c9b62328225c3\output\jars\classes.jar"
+        jar="C:\AndroidSDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
         jumboMode="true"
         optimize="true"
-        revision="27.0.3"
-        sha1="0e97fa8abc1a1a90087ce8b093d11f1a8e0f1214">
-        <dex dex="C:\Users\Huy\AndroidStudioProjects\FaceMaker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d501b2a50a6b4e3fe892650c101d566f0cb09934\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Huy\.android\build-cache\e963a9b07dce142903653a4cb0d5ebdf0b40c951\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.3"
-        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
-        <dex dex="C:\Users\Huy\AndroidStudioProjects\FaceMaker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_72513884febddc106968ba7b90ba678779a9d133\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Huy\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.3"
-        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
-        <dex dex="C:\Users\Huy\AndroidStudioProjects\FaceMaker\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_924e5e941a3cbc3d3a3a8eafb603e6bc917848f8\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Huy\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.3"
+        revision="25.0.3"
         sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="C:\Users\Huy\AndroidStudioProjects\FaceMaker\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_c4ae2ee73046eddcf681d14993be529ebf78ab2d\classes.dex" />
+        <dex dex="C:\Users\nguyenhu21\StudioProjects\FaceMaker\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_caab4f08ce5e946c7639a1ae04a92cd75edf5b21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nguyenhu21\.android\build-cache\9dba543d0ceeebf9e42ae7368f44f2a16c48419c\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\nguyenhu21\StudioProjects\FaceMaker\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_b0d1b423e578f3a37f899c3effcb067ba3347601\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nguyenhu21\StudioProjects\FaceMaker\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\nguyenhu21\StudioProjects\FaceMaker\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8758ae1dc5774655285eb115537f925bcfe0f59a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nguyenhu21\.android\build-cache\a506812ad69de1dc6a6b924db2e605c6990de751\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\nguyenhu21\StudioProjects\FaceMaker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1845e4cc2c1c0a6aac4fc9f08a3698ed736561b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\nguyenhu21\StudioProjects\FaceMaker\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_0fe8e83acf0912c0af4965e58f83e4ce87305fce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nguyenhu21\StudioProjects\FaceMaker\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7c27411348b5a391642a8c2fb9a6ea9564354c4a">
+        <dex dex="C:\Users\nguyenhu21\StudioProjects\FaceMaker\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_512b3b20b794eca4be1b9075a40a73b054d4e606\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nguyenhu21\.android\build-cache\8c021ef70365d3eecf48d1d41880523fbd05615f\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\nguyenhu21\StudioProjects\FaceMaker\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_2ddb9fa6e9facd9ca8220cf743526a3f170717cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nguyenhu21\.android\build-cache\a506812ad69de1dc6a6b924db2e605c6990de751\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\nguyenhu21\StudioProjects\FaceMaker\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_9c0b1b9654a149c6adebafe80336e32bbe5d382a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nguyenhu21\.android\build-cache\bb92163f8cbbb000a14f11376bb4738aedc32a37\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\nguyenhu21\StudioProjects\FaceMaker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2ee0286da492b670fe78cdb82269be3d676cc54a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nguyenhu21\.android\build-cache\b76b96712ae2d4677b28c4c2bccd844a514a99a0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\nguyenhu21\StudioProjects\FaceMaker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_10e274d0817c09fc50d8205ac8080532c4ffff2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nguyenhu21\.android\build-cache\442976525c4452af3a8e5029806cdab81ec2a8b9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\nguyenhu21\StudioProjects\FaceMaker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_10eda2b48ec022a0b5f77c77daec305bbb425b4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nguyenhu21\.android\build-cache\291524424fd9907076b1f2f3026a0ca20ead3c5d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\nguyenhu21\StudioProjects\FaceMaker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ec6a8db52afd51e3b8369f2338cf09e653c5016f\classes.dex" />
     </item>
 
 </items>
